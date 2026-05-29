@@ -1,16 +1,16 @@
-https://cdn.i-ready.com/favicon.ico
-https://assets.clever.com/launchpad/c82023697/favicon.ico?1
-https://www.gstatic.com/classroom/ic_product_classroom_144.png
-https://ssl.gstatic.com/images/branding/productlogos/docs_2026/v2/ico/docs_2026_256dp.ico
-https://ssl.gstatic.com/images/branding/productlogos/slides_2026/v2/ico/slides_2026_256dp.ico
-https://reflex.explorelearning.com/favicon-32x32.png
-https://www.getepic.com/favicon.ico
-https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico
-https://savvas-sc-assets.savvas.com/-/media/Themes/Savvas/Savvas/Savvas-Theme/favicon/favicon-32x32.png?rev=9ea38b8d88894f239a43e168b3b09cbe
-https://www.desmos.com/assets/img/apps/graphing/favicon.ico
-https://www.desmos.com/assets/img/apps/scientific/favicon.ico
-https://www.desmos.com/assets/img/apps/fourfunction/favicon.ico
-https://www.desmos.com/assets/img/apps/notebook/notebook_favicon.ico
-https://www.desmos.com/assets/img/apps/matrix/favicon.ico
-https://www.desmos.com/assets/img/apps/geometry/favicon.ico
-https://www.desmos.com/assets/img/apps/3d/favicon.ico
+i-Ready : https://cdn.i-ready.com/favicon.ico
+Clever: https://assets.clever.com/launchpad/c82023697/favicon.ico?1
+Google Classroom: https://www.gstatic.com/classroom/ic_product_classroom_144.png
+Google Docs: https://ssl.gstatic.com/images/branding/productlogos/docs_2026/v2/ico/docs_2026_256dp.ico
+Google Slides: https://ssl.gstatic.com/images/branding/productlogos/slides_2026/v2/ico/slides_2026_256dp.ico
+Reflex: https://reflex.explorelearning.com/favicon-32x32.png
+Epic: https://www.getepic.com/favicon.ico
+Google: https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico
+Savvas: https://savvas-sc-assets.savvas.com/-/media/Themes/Savvas/Savvas/Savvas-Theme/favicon/favicon-32x32.png?rev=9ea38b8d88894f239a43e168b3b09cbe
+Desmos Graphing Calculator: https://www.desmos.com/assets/img/apps/graphing/favicon.ico
+Desmos Scientific Calculator https://www.desmos.com/assets/img/apps/scientific/favicon.ico
+Desmos 4 Function Calculatorhttps://www.desmos.com/assets/img/apps/fourfunction/favicon.ico
+Desmos Notebook: https://www.desmos.com/assets/img/apps/notebook/notebook_favicon.ico
+Desmos Matrix Calculator: https://www.desmos.com/assets/img/apps/matrix/favicon.ico
+Desmos Geometry: https://www.desmos.com/assets/img/apps/geometry/favicon.ico
+Desmos 3D Graphing Calculator: https://www.desmos.com/assets/img/apps/3d/favicon.ico
